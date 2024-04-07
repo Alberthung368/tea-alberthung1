@@ -1,0 +1,7 @@
+echo "# tea-alberthung1" >> README.md
+git init
+git add README.md
+git commit -m "init"
+git branch -M main
+git remote add origin https://github.com/Alberthung368/tea-alberthung1.git
+git push -u origin main
